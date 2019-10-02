@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlin-TabPagger-demo</string>
+    <string name="title_login">ログイン</string>
+    <string name="title_add_account">会員登録</string>
+</resources>
